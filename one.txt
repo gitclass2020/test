@@ -7,3 +7,12 @@ This change is modiified by dev2
 
 Testing testing
 
+this is to test
+
+testing stash
+
+lets make few more changes and check the stash. 
+
+this can be collected only before the commit 
+
+If the commit is done then there will be nothing to stash.
